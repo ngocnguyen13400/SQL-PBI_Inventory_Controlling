@@ -1,4 +1,4 @@
-# ngocnguyen
+# SQL-PBI_Inventory_Controlling
 SQL-PBI_Inventory_Controlling
 
 I. Introduction
